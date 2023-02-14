@@ -52,5 +52,5 @@ def search_for_photos(directory):
 threshold = 0.6
 
 # Start the search in the root directory
-root_directory = "./"
+root_directory = "../../Downloads/test_album"
 search_for_photos(root_directory)
